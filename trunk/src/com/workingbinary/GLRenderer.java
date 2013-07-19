@@ -7,12 +7,6 @@ import javax.media.opengl.GLEventListener;
 import javax.media.opengl.glu.GLU;
 
 
-/**
- * GLRenderer.java <BR>
- * author: Brian Paul (converted to Java by Ron Cemer and Sven Goethel) <P>
- *
- * This version is equal to Brian Paul's version 1.2 1999/10/21
- */
 public class GLRenderer implements GLEventListener {
 
     public void init(GLAutoDrawable drawable) {
